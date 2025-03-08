@@ -1,81 +1,93 @@
-# 🎉 FreePBX Installation Script for Ubuntu 24.04 🚀
+# 🌌 FreePBX 17 Installation | Ubuntu 24.04 🌠
 
-```
- ______             _____  ______   __
+```ansi
+\033[1;36m______             _____  ______   __
 |  ____|           |  __ \|  _ \ \ / /
 | |__ _ __ ___  ___| |__) | |_) \ V /
 |  __| '__/ _ \/ _ \  ___/|  _ < > <
 | |  | | |  __/  __/ |    | |_) / . \
-|_|  |_|  \___|\___|_|    |____/_/ \_\
+|_|  |_|  \___|\___|_|    |____/_/ \_\ \033[0m
 ```
 
-✨ **Your Open Source Asterisk PBX GUI Solution** ✨
-
-## 📌 What is FreePBX?
-FreePBX is a fantastic open-source GUI (graphical user interface) that lets you control and manage the powerful Asterisk® PBX system easily! 😍
-
-This script specifically helps you set up FreePBX 17 on Ubuntu 24.04 like a charm! 🐧
-
-FreePBX is modular and built with PHP and JavaScript, meaning you can create custom modules and offer amazing new features to your clients completely FREE! 💡🆓
+🌟 **Elegant, Powerful, and Open-Source Asterisk GUI** 🌟
 
 ---
 
-## 🚧 How to Set Up FreePBX on Ubuntu 24.04 🛠️
+## 🚩 Overview
+FreePBX offers an intuitive, powerful, and completely open-source graphical interface to manage your Asterisk PBX effortlessly. This script simplifies your FreePBX 17 installation on Ubuntu 24.04, making setup hassle-free! 🎛️✨
 
-### Step-by-step Guide:
+---
 
-**1. SSH into your Ubuntu system as 'root' or with sudo privileges:**
+## 📋 Prerequisites & Dependencies
 
+Make sure these packages are installed on your system before running the script:
+
+```bash
+sudo apt update
+sudo apt install -y git wget curl build-essential openssh-server apache2 mariadb-server mariadb-client \
+libapache2-mod-php php php-cli php-common php-curl php-gd php-mbstring php-mysql php-xml php-zip php-bcmath php-json \
+php-imap php-ldap php-intl php-soap php-pear nodejs npm
+```
+
+---
+
+## 📦 Installation Guide
+
+**Step 1️⃣: Connect to your Ubuntu server via SSH** 📡
 ```bash
 ssh root@YOUR_SERVER_IP
 ```
 
-**2. Download the installation script:** 📥
-
+**Step 2️⃣: Download and prepare the installer** 📥
 ```bash
 wget https://github.com/blonets/SNG_FREEPBX_ubuntu_script-installation/raw/main/sng_freepbx_ubuntu_install.sh -O /tmp/sng_freepbx_ubuntu_install.sh
+chmod +x /tmp/sng_freepbx_ubuntu_install.sh
 ```
 
-**3. Execute the script and let the magic begin! ✨🧙‍♂️**
-
+**Step 3️⃣: Execute the installer** 🚀⚙️
 ```bash
 bash /tmp/sng_freepbx_ubuntu_install.sh
 ```
 
-⏳ **Note:** Installation time depends on your internet speed and hardware specs—grab a coffee ☕ and relax!
+🕒 *Installation time varies—time to chill with your favorite drink!* 🍵
 
 ---
 
-📋 **Logs & Troubleshooting:**
-If anything acts up 🤔, don't panic! Check the detailed logs here:
+## 🔍 Troubleshooting & Logs
 
-```
+Encountered issues? No worries! Logs are available at:
+```bash
 /var/log/pbx/freepbx17-ubuntu-install.log
 ```
 
-For bugs and issues, let us know here:
-- 🐞 [Issue Tracker](https://github.com/blonets/SNG_FREEPBX_ubuntu_script-installation/issues)
+🐞 **Report issues here:** [GitHub Issues](https://github.com/blonets/SNG_FREEPBX_ubuntu_script-installation/issues)
 
 ---
 
-## 📜 Licensing & Contribution
+## 📜 License & Contributions
 
-This project's code is licensed under GPLv3+ 📖✨
+This project is licensed under the **GPLv3+** 📖🌱
 
-Want to contribute and become a legend? 🙌
-Sign our Contributor License Agreement (CLA) [here](https://oss-cla.sangoma.com/freepbx/sng_freepbx_ubuntu_install).
-
-More details on contributing: [Code License Agreement](https://sangomakb.atlassian.net/wiki/spaces/FP/pages/10682663/Code+License+Agreement)
-
----
-
-## 🌟 Support & Contact
-- 🌐 [Blonets](https://www.blarchos.com)
-- 📘 Facebook: [osamablarch](https://fb.com/osamablarch)
+Interested in contributing?
+- 📄 [Contributor License Agreement](https://oss-cla.sangoma.com/freepbx/sng_freepbx_ubuntu_install)
+- ℹ️ [Contribution Guidelines](https://sangomakb.atlassian.net/wiki/spaces/FP/pages/10682663/Code+License+Agreement)
 
 ---
 
-### 🚀 Powered by Osama Tammaa | Blonets 🌟
+## 📬 Connect & Support
 
-Happy calling! 📞😎
+🌐 **Website:** [Blonets](https://www.blarchos.com)  
+📘 **Facebook:** [osamablarch](https://fb.com/osamablarch)  
+📱 **Telegram:** [blarch](https://t.me/blarch)  
+📲 **WhatsApp:** [+201067591106](https://wa.me/201067591106)
+
+---
+
+## 🚧 تحت التطوير بواسطة المهندس أسامه أيمن طماعه | جاري التطوير 🛠️
+
+---
+
+### 💡 Powered by Osama Tammaa | Blonets 💡
+
+Happy Calling! 📞✨
 
