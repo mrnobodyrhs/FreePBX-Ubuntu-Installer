@@ -13,7 +13,7 @@
 #
 # @author kgupta@sangoma.com
 #
-# Modified for Ubuntu 24.04
+# Modified for Ubuntu 24.04 by Osama Ayman ostammaa@blarchos.com
 #####################################################################################
 set -e
 SCRIPTVER="1.14"
